@@ -14,7 +14,7 @@ To keep the sample/demo sites readable, they are each hosted in a separate repos
 
   * A generic HTML documentation site, for static hosting - [[Repo]](https://github.com/JeffersGlass/pyscript-docs-demo-S3) [[Live Demo]](http://pyscript-docs-s3-demo.s3-website-us-east-1.amazonaws.com/)
   * A site built with `mkdocs-pyscript`, on GitHub Pages() - [[Repo]](https://github.com/JeffersGlass/mkdocs-pyscript-demo) [[Live Demo]](https://jeffersglass.github.io/mkdocs-pyscript-demo/)
-  * A site built with `sphinx-script`, on readthedocs() - [[Repo]](https://github.com/JeffersGlass/sphinx-pyscript-demo) [[Live Demo]]()
+  * A site built with `sphinx-script`, on readthedocs() - [[Repo]](https://github.com/JeffersGlass/sphinx-pyscript-demo) [[Live Demo]](https://sphinx-pyscript-demo.readthedocs.io/en/latest/)
 
 ## Links
   * [PyScript Home](https://pyscript.net)
