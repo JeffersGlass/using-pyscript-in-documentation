@@ -19,5 +19,5 @@ To keep the sample/demo sites readable, they are each hosted in a separate repos
 ## Links
   * [PyScript Home](https://pyscript.net)
   * [PyScript Repo](https://github.com/pyscript/pyscript)
-  * [`mkdocs-pyscript`](https://github.com/JeffersGlass/mkdocs-pyscript), an etension for [mkdocs](https://www.mkdocs.org/) that turns code fences into executable code editors automatically
+  * [`mkdocs-pyscript`](https://github.com/JeffersGlass/mkdocs-pyscript), an extension for [mkdocs](https://www.mkdocs.org/) that turns code fences into executable code editors automatically
   * [`sphinx-pyscript`](https://github.com/sphinx-extensions2/sphinx-pyscript), an extension for [sphinx](https://www.sphinx-doc.org/en/master/) which allows embedding code snippets and executable editors
