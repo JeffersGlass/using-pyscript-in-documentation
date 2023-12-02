@@ -6,7 +6,7 @@ Documentation, slides, and demo sites for the talk 'Make Your Documentation Inte
 This talk was presented in a pre-recorded format for PyOhio2023. The video will be linked here when it is available.
 
 ## Slides:
-The slides for this talk were built with Google Slides; they are [available online]().
+The slides for this talk were built with Google Slides; they are [available online](https://docs.google.com/presentation/d/15t7FFZRJl6QUtWVuk2G_7Db61EjJ6OdC-nezSAj9i9s/edit?usp=sharing).
 
 ## Demo Repositories
 
