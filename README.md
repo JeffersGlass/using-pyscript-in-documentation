@@ -3,10 +3,15 @@ Documentation, slides, and demo sites for the talk 'Make Your Documentation Inte
 
 ## Recordings
 
-This talk was presented in a pre-recorded format for PyOhio2023. The recording is [available on YouTube](https://www.youtube.com/watch?v=ysSewLZEqnM).
+A 30-minute version of this talk was presented at PyCon US 2024 in Pittsburgh. The recording will be linked here when it is available.
+
+This talk was presented in a pre-recorded format for PyOhio 2023. The recording is [available on YouTube](https://www.youtube.com/watch?v=ysSewLZEqnM).
 
 ## Slides:
-The slides for this talk were built with Google Slides; they are [available online](https://docs.google.com/presentation/d/15t7FFZRJl6QUtWVuk2G_7Db61EjJ6OdC-nezSAj9i9s/edit?usp=sharing).
+
+The slides for this talk were built with Google Slides; the available version are:
+  - [PyCon 2024 Slides](https://docs.google.com/presentation/d/15BfWFWi3Vym6MZcdcisVjNRjXET84INw0C6j3hL684U/edit?usp=sharing)
+  - [PyOhio 2023 Slides](https://docs.google.com/presentation/d/15t7FFZRJl6QUtWVuk2G_7Db61EjJ6OdC-nezSAj9i9s/edit?usp=sharing).
 
 ## Demo Repositories
 
